@@ -1,0 +1,13 @@
+username = input("Please enter you first name! ")
+number1 = input("Enter you favorite number! ")
+try:
+    number1 = int(number)
+else:
+    print("Try entering it again?")
+    try:
+        number1 = float(number)
+    else:
+        print("Let's run it again")
+        
+print(username + "\'s favorite number is" + number1)
+
