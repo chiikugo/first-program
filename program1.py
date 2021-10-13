@@ -2,12 +2,12 @@ username = input("Please enter you first name! ")
 number1 = input("Enter you favorite number! ")
 try:
     number1 = int(number)
-else:
-    print("Try entering it again?")
+except:
+    print("Okay! Processing")
     try:
         number1 = float(number)
-    else:
-        print("Let's run it again")
+    except:
+        print("Just confirming your number....")
         
-print(username + "\'s favorite number is" + number1)
+print(username + "\'s favorite number is " + number1)
 
