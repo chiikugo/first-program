@@ -1,0 +1,1 @@
+The reason why I chose the standard Creative Commons License and the read me from Contributor Covenant is that they cover a broad range of people and are giving people free reign and control to edit this program. They cover plenty of groups and are effective for stating what can be done and what cannot be done to users of this program.

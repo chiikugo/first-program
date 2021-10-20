@@ -8,4 +8,4 @@
      After installing and initiallizing git by typing in "git" in terminal, you would type in 'clone [url]', and cd into the folder. You would then run the program by typing in 'python program1.py.'
      
  ## Contribution
-     Feel free to extend the
+     Feel free to extend the code by asking for more inputs and if you would like, you could put them into a library with the user's name and the things they favor. Make a pull request and I will respond!
